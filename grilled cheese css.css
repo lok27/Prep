@@ -1,0 +1,106 @@
+html {
+	background-color: lightblue;
+}
+
+div {
+	border-radius: 20px;
+}
+
+h3 {
+	margin-top: 20px;
+	margin-left: 10px;
+
+}
+
+h1 {
+	margin-top: 30px;
+	margin-left: 20px;
+	text-align: center;
+	text-decoration: underline;
+	font-family: impact;
+
+}
+
+p {
+	font-family: Arial;
+}
+#title{
+	width: 97%;
+	height: 60px;
+	margin-top: -10px;
+	background-color: #FF8C00;
+	
+}
+
+li {
+	font-family: Arial;
+}
+
+#ingredients{
+	width: 97%;
+	height: 150px;
+	background-color: #FFCB00;
+
+
+}
+
+#direction{
+	width: 97%;
+	height: 180px;
+	background-color: #bbf136;
+
+}
+
+.button {
+	width:350px;
+	height:230px;
+	border-radius: 150px;
+	font-size: 20px;
+	background-color: #ff6f39;
+	border: 3px solid black;
+	display: inline-block;
+	text-align: justify;
+}
+
+/*#noshow {
+	width: 200px;
+	height: 30px;
+	border-radius: 150px;
+	font-size: 20px;
+	background-color: yellow;
+	border: 3px solid black;
+	text-align: center;
+	padding-top: 20px;
+} */
+
+#cheese1 {
+	display: inline-block;
+}
+
+
+#cheese3 {
+	display: inline-block;
+
+}
+
+#cheese2 {
+	display: inline-block;
+}
+
+img {
+	width: 280px;
+	height: 180px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+

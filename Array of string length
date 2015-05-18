@@ -1,0 +1,7 @@
+
+
+def length_finder(input_array)
+  return input_array.map {|x| x.length}
+end
+
+length_finder(['one', 'two', 'three'])
